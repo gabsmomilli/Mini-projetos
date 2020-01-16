@@ -1,4 +1,4 @@
 # Mini-projetos
-Neste repositório esta alguns dos meus programas feitos para a faculdade, todos estão na linguagem **Python**.
+Neste repositório esta alguns dos programas que fiz para o 1.º semestre da faculdade.
 
-Estes programas são uma proposta do livro **Logica de Programação**
+Os programas foram feitos na pseudolinguagem **Portugol**, mas já estão atualizados na linguagem **Python**.
